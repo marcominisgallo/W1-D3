@@ -43,6 +43,8 @@ p.credits-photo {
 
 p.featured {
     color: #b75029;
+    border-left: 2px solid #ffd254;
+    padding-left: 3px;
 }
 
 a.featured {
