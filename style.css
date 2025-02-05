@@ -1,0 +1,64 @@
+header {
+    text-align: center;
+}
+
+header img {
+    width: 15%;
+}
+
+header p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+main {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header p {
+    background-color: #fdfbf1;
+    border-top: 1px solid #ffd254;
+}
+
+main h1 {
+    text-align: center;
+}
+
+div#video {
+    width: 100%;
+    background-image: url('assets/focaccia.png');
+    text-align: center;
+}
+
+iframe {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.credits-photo {
+    text-align: center;
+}
+
+p.featured {
+    color: #b75029;
+}
+
+a.featured {
+    color: #027272;
+}
+
+hr {
+    color: #bcf2f1;
+}
+
+footer a {
+    color: #027272;
+}
+
+footer {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
