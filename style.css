@@ -32,6 +32,7 @@ div#video {
     height: 480px;
     display: flex;
     align-items: center;
+    background-size: cover;
 }
 
 iframe {
